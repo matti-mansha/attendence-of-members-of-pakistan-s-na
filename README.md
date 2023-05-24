@@ -6,17 +6,15 @@ Disclaimer: Attendence of NA members in assembly sessions is not the only nor th
 
 ## Analysis:
 ### Top 20 Elected Members consistently exhibit the highest attendance:
-Bottom 20 Elected Members with least attendance:
-
-
-
-
 ![top20](https://github.com/matti-mansha/attendence-of-members-of-pakistan-s-na/assets/57318662/c04f0b97-5637-45aa-ac10-7979e9ed9449)
+
+### Bottom 20 Elected Members with least attendance:
+![bottom](https://github.com/matti-mansha/attendence-of-members-of-pakistan-s-na/assets/57318662/18b89a68-0307-435b-8894-e1b3097c0fb9)
 
 
 
 ### Province wise Attendance Analysis:
-
+![province](https://github.com/matti-mansha/attendence-of-members-of-pakistan-s-na/assets/57318662/c6427191-7b12-4b91-b638-aaf3f12ab3bc)
 Based on attendance records, the following is the ranking of member attendance in the five provinces of Pakistan:
 
 Khyber Pakhtunkhwa (KP): Members from KP consistently exhibit the highest attendance rates, demonstrating a strong commitment to parliamentary activities.
