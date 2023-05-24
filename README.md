@@ -17,8 +17,8 @@ Disclaimer: Attendence of NA members in assembly sessions is not the only nor th
 ![province](https://github.com/matti-mansha/attendence-of-members-of-pakistan-s-na/assets/57318662/c6427191-7b12-4b91-b638-aaf3f12ab3bc)
 Based on attendance records, the following is the ranking of member attendance in the five provinces of Pakistan:
 
-Khyber Pakhtunkhwa (KP): Members from KP consistently exhibit the highest attendance rates, demonstrating a strong commitment to parliamentary activities.
-Islamabad (ICT): Rank second and actively contribute to the parliamentary process.
-Balochistan: Rank third in attendance and actively contribute to the parliamentary process.
-Punjab: Members from Punjab rank forth in terms of attendance
-Sindh: Members from Sindh rank last in attendance and actively contribute to the parliamentary process.
+- Khyber Pakhtunkhwa (KP): Members from KP consistently exhibit the highest attendance rates, demonstrating a strong commitment to parliamentary activities.
+- Islamabad (ICT): Rank second and actively contribute to the parliamentary process.
+- Balochistan: Rank third in attendance and actively contribute to the parliamentary process.
+- Punjab: Members from Punjab rank forth in terms of attendance
+- Sindh: Members from Sindh rank last in attendance and actively contribute to the parliamentary process.
